@@ -1,6 +1,6 @@
 ### Hi There 👋, I'm Tomas
 
-I'm a software engineering student at Universidad EIA, currently diving into my 5th semester. My focus as a programmer is on backend development and in the future as data analyst, and I'm passionate about building robust and scalable systems. Here's a bit about my tech stack:
+I'm a systems engineering student at Universidad EIA, currently diving into my 5th semester. My focus as a programmer is on backend development and in the future as data analyst, and I'm passionate about building robust and scalable systems. Here's a bit about my tech stack:
 
 - **Languages**: Python, SQL, Java, React
 - **Frameworks**: FastAPI
