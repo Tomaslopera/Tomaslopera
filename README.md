@@ -4,7 +4,7 @@ I'm a systems engineering student at Universidad EIA, currently in 5th semester.
 
 - **Languages**: Python, SQL, Java, React
 - **Frameworks**: FastAPI
-- **Databases**: MySQL
+- **Databases**: MySQL, SQLServer and PostgreSQL
 - **Web Services**: I've been working on developing RESTful APIs and have experience using FastAPI. I know how to work with Firebase Database to storage some images.
 - **Integration**: I know how to connect Python with React, utilizing APIs. I've learned to verify these connections using tools like Postman.
 
