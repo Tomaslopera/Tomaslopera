@@ -11,9 +11,9 @@ I'm a systems engineering student at Universidad EIA, currently in 5th semester.
 #### 🌱 Currently Learning
 I'm always eager to learn and expand my skill set. Currently, I'm exploring more about:
 
-- **Frameworks:** Delving into the world of Django and Flask in Python for backend web development.
-- **Web Services:** Exploring cloud services such as Microsoft Azure and Amazon Web Services (AWS) to understand their capabilities in building scalable applications.
-- **Databases:** Learning about MongoDB to expand my knowledge of different database technologies.
+- **Data Science and Machine Learning:** Exploring python libraries such as numpy, pandas, seaborn, matplotlib, scikit-learn, ...
+- **Web Services:** Exploring cloud services such as Amazon Web Services (AWS) to understand their capabilities in building scalable applications.
+- **Databases:** Improving my skills using AdventureWorks.
 
 #### 📫 Let's Connect
 - **LinkedIn**: [Tomas Lopera](https://www.linkedin.com/in/tomas-lopera-413b4322a/)
