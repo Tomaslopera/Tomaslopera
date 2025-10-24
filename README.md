@@ -3,3 +3,4 @@ Hi there, I'm Tomás. I am a Systems and Computer Engineering student at EIA Uni
 #### Let's Connect
 - **LinkedIn**: [Tomas Lopera](https://www.linkedin.com/in/tomaslopera/)
 - **Email**: loperatomas410@gmail.com
+- **Personal Portfolio**: https://tomasloperaportfolio.netlify.app/projects
